@@ -1,0 +1,10 @@
+print()
+print('===== Exercício 01 da Aula 06 =====')
+print()
+print('SOMANDO VALORES')
+n1 = int(input('Digite um valor qualquer: '))
+n2 = int(input('Agora digite outro valor: '))
+s = n1 + n2
+print('Ok, a soma entre os números {0} e {1} é igual a {2}.'.format(n1, n2, s))
+print()
+print('FIM')
