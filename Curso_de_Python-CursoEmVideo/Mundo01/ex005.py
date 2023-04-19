@@ -16,3 +16,4 @@ v = int(input('Insira um valor de entrada: '))
 print('Obrigado, seu número inserido foi {}, seu antecessor é {}, e o seu sucessor é {}.'.format(v, (v-1), v+1))
 print()
 print('FIM 2')
+
