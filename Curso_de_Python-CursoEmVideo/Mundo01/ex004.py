@@ -18,3 +18,4 @@ print('* Está capitalizada (Maiúscula e Minúscula)?', a.istitle())
 print('* Qual o método de subclasse?', a.__init_subclass__())
 print()
 print('FIM')
+
