@@ -8,3 +8,4 @@ m = s / 2
 print('A média do aluno é: {}'.format(m))
 print()
 print('FIM')
+
