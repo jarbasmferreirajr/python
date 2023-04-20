@@ -1,0 +1,11 @@
+print('===== DESAFIO 03 =====')
+print()
+print('- Oi, vamos brincar de somar!')
+print()
+v1 = int(input('* Digite o primeiro valor: '))
+v2 = int(input('* Digite o segundo valor: '))
+soma = v1+v2
+print()
+print('A resposta da soma dos valores é', soma)
+print()
+print('---[[[ Legal né? Valeu por ter participado! \o/ ]]]---')
